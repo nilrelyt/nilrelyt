@@ -3,7 +3,7 @@
 
 🐝 I'm a Computer Science Student at Georgia Tech
 
-🔍 My concentrations are Info-Internetworks and Intelligence
+🔍 My concentrations are Information Internetworks & Intelligence
 
 
 # 💻 Tech Stack
