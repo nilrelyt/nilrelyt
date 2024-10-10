@@ -26,3 +26,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+# 📊 Stats
+![Tyler's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nilrelyt&theme=vue-dark&count_private=true)
