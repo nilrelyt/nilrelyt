@@ -27,5 +27,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
+# 🕸️ Projects
+
 # 📊 Stats
 ![Tyler's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nilrelyt&theme=vue-dark&count_private=true)
