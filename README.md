@@ -27,7 +27,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-# 🕸️ Portfolio
+# 🕸️ Building
 📝 In Progress
 
 # 📬 Reach Me
